@@ -12,7 +12,7 @@ description: > # this means to ignore newlines until "baseurl:"
   La Escuela de Enseñanza Secundaria Orientada N° 521 es la única escuela secundaria de la localidad de López, en la provincia de Santa Fé.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "http://eeso521.tk" # the base hostname & protocol for your site
-facebook_username: jekyllrb
+facebook_username: eeso521
 
 # Build settings
 markdown: kramdown
